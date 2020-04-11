@@ -21,7 +21,7 @@ An example project that should cover all aspects of a datacenter and network inf
 - [BigSwitch Network Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/BigSwitch-Network-Deployment-Document/BigSwitch-Network-Deployment-Document-v1-1.pdf)
 - [BigSwitch Network Deployment Configuration](https:////github.com/hmoats/group-design-docs-public/blob/master/BigSwitch-Network-Deployment-Configuration/README.md)
 
-## Cost Estimates
+### Cost Estimates
 
 Please note that these are estimates for the network kit BoM. This does not include datacenter, compute or storage costs. The price includes a 3 years of support. 
 
