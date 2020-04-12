@@ -2,6 +2,10 @@
 
 Collection of example design documents that are based on either real world or lab experience. Generally the documents are thought exercises around infrastructure operations.
 
+Table of Contents
+
+- [Dell and BigSwitch Network Build Project](#Dell-and-BigSwitch-Network-Build-Project)
+
 ```
 group-design-docs-public/
 ├── Dell-and-BigSwitch-Network-Build-Project
