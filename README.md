@@ -3,17 +3,19 @@
 Collection of example design documents that are based on either real world or lab experience. Generally the documents are thought exercises around infrastructure operations.
 
 ```
-group-design-docs-public
-├── BigSwitch-Network-Deployment-Configuration
-│   └── README.md
-├── BigSwitch-Network-Deployment-Document
-│   └── BigSwitch-Network-Deployment-Document-v1-1.pdf
-├── Datacenter-Deployment-Document
-│   └── Datacenter-Deployment-Document-v1-0.pdf
+group-design-docs-public/
+├── Dell-and-BigSwitch-Network-Build-Project
+│   ├── BigSwitch-Datacenter-Deployment-Document
+│   │   └── Datacenter-Deployment-Document-v1-0.pdf
+│   ├── BigSwitch-Network-Deployment-Configuration
+│   │   └── README.md
+│   └── BigSwitch-Network-Deployment-Document
+│       └── BigSwitch-Network-Deployment-Document-v1-1.pdf
 └── README.md
+
 ```
 
-## BigSwitch Network Deployment Document
+## Dell and BigSwitch Network Build Project
 
 An example project that should cover all aspects of a datacenter and network infrastructure deployment.
 
@@ -29,13 +31,13 @@ An example project that should cover all aspects of a datacenter and network inf
 
 #### Documentation
 
-- [Datacenter Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/Datacenter-Deployment-Document/Datacenter-Deployment-Document-v1-0.pdf) 
+- [BigSwitch Datacenter Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/Dell-and-BigSwitch-Network-Build-Project/BigSwitch-Datacenter-Deployment-Document/Datacenter-Deployment-Document-v1-0.pdf) 
 
 	*Floorplan | Elevation Compute | Elevation Network*
-- [BigSwitch Network Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/BigSwitch-Network-Deployment-Document/BigSwitch-Network-Deployment-Document-v1-1.pdf)
+- [BigSwitch Network Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/Dell-and-BigSwitch-Network-Build-Project/BigSwitch-Network-Deployment-Document/BigSwitch-Network-Deployment-Document-v1-1.pdf)
 
 	*Design Goals | Physical Layer 1 | Logical Layer 2 and 3*
-- [BigSwitch Network Deployment Configuration](https:////github.com/hmoats/group-design-docs-public/blob/master/BigSwitch-Network-Deployment-Configuration/README.md)
+- [BigSwitch Network Deployment Configuration](https:////github.com/hmoats/group-design-docs-public/blob/master/Dell-and-BigSwitch-Network-Build-Project/BigSwitch-Network-Deployment-Configuration/README.md)
 
 	*BSN Fabric Configuration*
 
@@ -45,7 +47,7 @@ Please note that these are estimates for the network kit BoM. This does not incl
 
 | Item | Quantity | Unit Cost | Total |
 | --- | --- | --- | --- |
-| Spine Switches (includes optics) | 3 | $45,000 | $30,000 |
+| Spine Switches (includes optics) | 3 | $15,000 | $45,000 |
 | Leaf Switches | 8 | $10,000 | $80,000 |
 | Edge Switches | 2 | $5,000 | $10,000 |
 | Edge Routers | 2 | $10,000 | $20,000 |
