@@ -17,7 +17,7 @@ group-design-docs-public
 
 An example project that should cover all aspects of a datacenter and network infrastructure deployment.
 
-### Design Goals
+#### Design Goals
 
 - BigSwitch network OS with two controllers
 - Small starter footprint of 4 racks (128 1RU servers) expandable to 16 (512)
@@ -27,7 +27,7 @@ An example project that should cover all aspects of a datacenter and network inf
 - 1Gbps external ingress/egress
 - Less than $400,000 USD
 
-### Documentation
+#### Documentation
 
 - [Datacenter Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/Datacenter-Deployment-Document/Datacenter-Deployment-Document-v1-0.pdf)
 - [BigSwitch Network Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/BigSwitch-Network-Deployment-Document/BigSwitch-Network-Deployment-Document-v1-1.pdf)
