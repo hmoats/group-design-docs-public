@@ -30,11 +30,11 @@ An example project that should cover all aspects of a datacenter and network inf
 #### Documentation
 
 - [Datacenter Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/Datacenter-Deployment-Document/Datacenter-Deployment-Document-v1-0.pdf) 
-	*Floorplan | Elevation Compute | Elevation Network*
+*Floorplan | Elevation Compute | Elevation Network*
 - [BigSwitch Network Deployment Document](https://github.com/hmoats/group-design-docs-public/blob/master/BigSwitch-Network-Deployment-Document/BigSwitch-Network-Deployment-Document-v1-1.pdf)
-	*Design Goals | Physical Layer 1 | Logical Layer 2 and 3*
+*Design Goals | Physical Layer 1 | Logical Layer 2 and 3*
 - [BigSwitch Network Deployment Configuration](https:////github.com/hmoats/group-design-docs-public/blob/master/BigSwitch-Network-Deployment-Configuration/README.md)
-	*BSN Fabric Configuration*
+*BSN Fabric Configuration*
 
 #### Cost Estimates
 
