@@ -5,6 +5,7 @@ Collection of example design documents that are based on either real world or la
 **Table of Contents**
 
 - [Dell and BigSwitch Network Build Project](#Dell-and-BigSwitch-Network-Build-Project)
+- [Cisco L3 Spine Leaf Network Build Project](#Cisco-L3-Spine-Leaf-Network-Build-Project)
 
 ```
 group-design-docs-public/
@@ -67,3 +68,5 @@ Please note that these are estimates for the network kit BoM. This does not incl
 | Misc Cables and Parts | 1 | $10,000 | $10,000 |
 
 Total: $353,500
+
+## Cisco L3 Spine Leaf Network Build Project
