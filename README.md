@@ -106,7 +106,7 @@ Enterprise example office project1.
 
 ### Documentation
 
-- [Enterprise Office Build Floorplan Project1](https:////github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Floorplan-Project1.pdf)
-- [Enterprise Office Build Elevation Project1](https:////github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Elevation-Project1.pdf)
-- [Enterprise Office Build Layer1 Project1](https:////github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Layer1-Project1.pdf)
-- [Enterprise Office Build Layer3 Project1](https:////github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Layer3-Project1.pdf)
+- [Enterprise Office Build Floorplan Project1](https://github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Floorplan-Project1.pdf)
+- [Enterprise Office Build Elevation Project1](https://github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Elevation-Project1.pdf)
+- [Enterprise Office Build Layer1 Project1](https://github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Layer1-Project1.pdf)
+- [Enterprise Office Build Layer3 Project1](https://github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Layer3-Project1.pdf)
