@@ -6,12 +6,14 @@ Collection of example design documents that are based on either real world or la
 
 - General Enterprise Design Considerations
 - [Dell and BigSwitch Network Build Project](#Dell-and-BigSwitch-Network-Build-Project)
-- [Office Floor Plan Overlay]
+- [Enterprise Office Build Project1](#Enterprise-Office-Buil-Project1)
 
 **Folders**
 
 ```
 group-design-docs-public/
+├── Cisco-L3-Spine-Leaf-Network-Build-Project
+│   └── Cisco-L3-Spine-Leaf-Network-Build-Project-Top.PNG
 ├── Dell-and-BigSwitch-Network-Build-Project
 │   ├── BigSwitch-Datacenter-Deployment-Document
 │   │   └── Datacenter-Deployment-Document-v1-0.pdf
@@ -19,8 +21,9 @@ group-design-docs-public/
 │   │   └── README.md
 │   └── BigSwitch-Network-Deployment-Document
 │       └── BigSwitch-Network-Deployment-Document-v1-1.pdf
+├── Enterprise-Office-Build-Project1
+│   └── Enterprise-Office-Build-Floorplan-Project1.pdf
 └── README.md
-
 ```
 ## The Enterprise or Datacenter Services as Layers
 
