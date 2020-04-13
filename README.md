@@ -6,7 +6,7 @@ Collection of example design documents that are based on either real world or la
 
 - [The Enterprise or Datacenter Services as Layers](The-Enterprise-or-Datacenter-Services-as-Layers)
 - [Dell and BigSwitch Network Build Project](#Dell-and-BigSwitch-Network-Build-Project)
-- [Enterprise Office Build Project1](#Enterprise-Office-Buil-Project1)
+- [Enterprise Office Build Project1](#Enterprise-Office-Build-Project1)
 
 **Folders**
 
