@@ -32,18 +32,23 @@ Just like the OSI model, we can consider any infrastructure build in layers. Eac
 **Design layers and their considerations**
 
 - Physical
+
   The floor plan provides the underlay to map the MDF, IDFs, server room, cable plant and various network and security services to their ideal location based on the physical attributes. Included in the physical layer are the physical delivery systems, e.g., shipping, storage, generators, uninterruptible power supply, ingress/egress access, cable plant
 
 - Network
-  The network design should provide resilient, fast and secure layer to snap in various enterprise services, e.g., LAN, WAN, Voice, Video, IT services, security services, IoT, guest services, monitoring, etc. The network should be flexible and built in a way to scale and plug in future services. This layer should also consider any ingress/egress connectivity to private or public cloud services along with inter-office communication.
+
+  The network design should provide resilient, fast and secure layer to snap in various enterprise services, e.g., LAN, WAN, voice, video, IT services, security services, IoT, guest services, monitoring, etc. The network should be flexible and built in a way to scale and plug in future services. This layer should also consider any ingress/egress connectivity to private or public cloud services along with inter-office communication.
 
 - Security
-  The security design should provide secure access with a least privilege model. The layer of security services is wide and begins with physical and ends with deep packet inspection. The goal here is to use industry best practice security for both physical and logical systems in coordination with your company's security team to deliver sensible solution for the enterprise. Typically this layer includes: ingress/egress access systems, Video systems, physical and environmental alarms, network segmentation, network surveillance, egress proxy, edge network security, etc.
+
+  The security design should provide secure access with a least privilege model. The layer of security services is wide and begins with physical and ends with deep packet inspection. The goal here is to use industry best practice security for both physical and logical systems in coordination with your company's security team to deliver sensible solution for the enterprise. Typically this layer includes: ingress/egress access systems, video systems, physical and environmental alarms, network segmentation, network surveillance, egress proxy, edge network security, etc.
 
 - Monitoring
+
   A consideration that is typically off the radar is how you will monitor the telemetry from these various enterprise systems and split their streams to the appropriate teams and/or service providers to guarantee visibility and availability.
 
 - BCP
+
   Finally, how does the entire system fit into the company's BCP and what needs to be provided, such as runbooks, alerts and testing, of these systems to ensure we are ready for any disaster.
 
 ## Dell and BigSwitch Network Build Project
