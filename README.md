@@ -4,7 +4,11 @@ Collection of example design documents that are based on either real world or la
 
 **Table of Contents**
 
+- General Enterprise Design Considerations
 - [Dell and BigSwitch Network Build Project](#Dell-and-BigSwitch-Network-Build-Project)
+- [Office Floor Plan Overlay]
+
+**Folders**
 
 ```
 group-design-docs-public/
@@ -18,6 +22,15 @@ group-design-docs-public/
 └── README.md
 
 ```
+## The Enterprise or Datacenter Services as Layers
+
+Just like the OSI model, we can consider any infrastructure build in layers. Each layer depends on each other layer and ultimately comprise a system that can be documented, controlled, monitored and secured.
+
+Design layers and their considerations
+
+- Physical Design
+-- The floor plan provides the underlay to map the MDF, IDFs, server room, cable plant and various network and security services to their ideal location based on the physical attributes. 
+-- 
 
 ## Dell and BigSwitch Network Build Project
 
@@ -67,3 +80,9 @@ Please note that these are estimates for the network kit BoM. This does not incl
 | Misc Cables and Parts | 1 | $10,000 | $10,000 |
 
 Total: $353,500
+
+## Enterprise Office Build Project1
+
+### Documentation
+
+- [Enterprise Office Build Floorplan Project1](https:////github.com/hmoats/group-design-docs-public/blob/master/Enterprise-Office-Build-Project1/Enterprise-Office-Build-Floorplan-Project1.pdf)
