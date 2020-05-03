@@ -1,6 +1,0 @@
-no enable secret
-line vty 0 4
-privil level 15
-end
-wr mem
-
