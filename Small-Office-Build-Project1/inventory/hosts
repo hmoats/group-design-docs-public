@@ -1,0 +1,18 @@
+[fws]
+asav-1 ansible_host=172.16.1.101
+asav-2 ansible_host=172.16.1.102
+
+[switches]
+iosvl2-1 ansible_host=172.16.1.103
+iosvl2-2 ansible_host=172.16.1.104
+
+[isps]
+isp-1 ansible_host=172.16.1.105
+isp-2 ansible_host=172.16.1.106
+
+[tests]
+test-1 ansible_host=172.16.1.107
+test-2 ansible_host=172.16.1.108
+
+[servers]
+server-1 ansible_host=172.16.1.109

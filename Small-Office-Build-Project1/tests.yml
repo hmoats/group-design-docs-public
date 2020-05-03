@@ -1,0 +1,26 @@
+- name: Cisco test nodes
+  hosts: tests
+  connection: local
+  gather_facts: false
+  vars:
+    cli:
+      username: hmoats
+      password: cisco
+      authorize: yes
+      auth_pass: cisco
+  tasks:
+    - debug: 
+        msg: "Starting {{ inventory_hostname }}"
+    - name: show running-config
+      ios_command:
+        commands:
+          - show running-config
+        provider: "{{ cli }}"
+      register: config
+
+    - name: Saving running-config
+      copy:
+        content: "{{ config.stdout[0] }}\n"
+        dest: "./config/{{ inventory_hostname }}_show-running-config"
+
+    - debug: var=config
